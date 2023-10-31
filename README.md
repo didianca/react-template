@@ -1,6 +1,17 @@
 # Run App Component
 
-1. in terminal: `npm start`
+1. download repository
+2. in root directory open terminal
+3. in terminal run: `npm start`
+
+> If successful, app can be found at **http://localhost:3000**
+
+# Description
+
+App takes the name of an NPM package as input, searches for all packages with given name and returns a list of them.
+
+![image](https://github.com/didianca/react-template/assets/43305021/04590314-eee0-4fb5-a320-20008e32f05d)
+
 
 # New Project Setup
 1. in working dir in terminal
