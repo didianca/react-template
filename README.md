@@ -2,7 +2,7 @@
 
 1. in terminal: `npm start`
 
-# New Project Setup (tips for personal use)
+# New Project Setup
 1. in working dir in terminal
 - `npx create-react-app <app-name> --template typescript`
 - `npm install --save-exact react-redux redux @types/react-redux redux-thunk axios`
