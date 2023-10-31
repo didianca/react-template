@@ -20,7 +20,7 @@
     1. create src/state/action-types/index.ts - export enum of possible action types
     2. create src/state/actions/*.action.ts - for different action interfaces
         1. import all actions in index.ts and export them as actions?
-> Confused about suggestion in course to refer to the action interfaces (types) as just actions. Misleading?
+       > Confused about suggestion in course to refer to the action interfaces (types) as just actions. Misleading?
     3. create src/state/reducers/*.reducer.ts - different logic around state
         1. import all reducers in index.ts and export them all as reducers
     4. create src/state/action-creators/*.ts
